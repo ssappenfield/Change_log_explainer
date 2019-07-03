@@ -46,7 +46,7 @@ This member would be defined as included as below:
 		USVString type;
 	}
 ```
-**history**<br/>
+### `history`
 	The path to one or more Resources
 	
 **url**<br/>
