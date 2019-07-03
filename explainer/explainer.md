@@ -18,7 +18,12 @@ Most PWAs are regularly updated, and by providing end users access to informatio
 A user agent might choose to expose a version history as follows:
 
 ![start page](imgs/start.png)
-
+![start select](imgs/start_select.png)
+![drop down](imgs/dropdown.png)
+![drop down select](imgs/drop_down_select.png)
+![app info pop up](imgs/App_info_pop_up.png)
+![popup select](imgs/popup_select.png)
+![version_history](imgs/version_history.png)
 
 ## Version History Proposal
 
@@ -64,10 +69,10 @@ This member would be defined as included as below:
 	}
 ```
 ## Existing Solutions
-**IOS App Store Version History**: displays version name, release date, and brief description of changes made for each version<br/>
+**IOS App Store Version History**: displays version name, release date, and brief description of changes made for each version
 ![ios app store](imgs/iosappstore.jpg)<br/>
 **Slack App at Microsoft store**: displays an overview of changes that came with the latest version<br/>
-![microsoft changlog](imgs/microsoft-store.png)<br/>
+
 
 GitHub releases: can display to users important releases on GitHub developers
 https://developer.github.com/v3/repos/releases/ 
