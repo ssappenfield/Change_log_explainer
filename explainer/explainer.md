@@ -64,10 +64,10 @@ This member would be defined as included as below:
 	}
 ```
 ## Existing Solutions
-**IOS App Store Version History**: displays version name, release date, and brief description of changes made for each version
+**IOS App Store Version History**: displays version name, release date, and brief description of changes made for each version<br/>
 ![ios app store](imgs/iosappstore.jpg)<br/>
 **Slack App at Microsoft store**: displays an overview of changes that came with the latest version<br/>
-
+![microsoft changlog](imgs/microsoft-store.png)<br/>
 
 GitHub releases: can display to users important releases on GitHub developers
 https://developer.github.com/v3/repos/releases/ 
