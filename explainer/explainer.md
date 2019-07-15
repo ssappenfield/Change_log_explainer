@@ -97,6 +97,7 @@ version: {
 
 ## Existing Solutions
 
+
 **iOS App Store** displays version name, release date, and brief description of changes made for each version:
 
 ![Uber app in the iOS App Store](imgs/iosappstore.jpg)
@@ -109,6 +110,7 @@ version: {
 
 
 ## Open Questions
+
 
 1. Should history be stored as a dictionary instead of a collection?
 2. Alternative formats for storing version data?
