@@ -73,7 +73,7 @@ This member would be defined as included as below:
 ![ios app store](imgs/iosappstore.jpg)<br/>
 **Slack App at Microsoft store**: displays an overview of changes that came with the latest version<br/>
 
-![microsoft store] (imgs/microsoft-store.png)<br/>
+![microsoft store](imgs/microsoft-store.png)<br/>
 GitHub releases: can display to users important releases on GitHub developers
 https://developer.github.com/v3/repos/releases/ 
 ## Open Question
