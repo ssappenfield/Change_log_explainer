@@ -77,7 +77,7 @@ Optional. A human-readable label for current version name.
 
 #### `url`
 
-The url to load when users select "Version history". This URL must exist within the navigation scope (scope) defined in the manifest. If the manifest-url is a relative URL, the base URL will be the URL of the manifest. Example urls: [Twitter Release Notes](https://twitter.com/i/release_notes), [rubygem CHANGELOG file](https://github.com/botanicus/changelog/blob/master/CHANGELOG).
+The url to load when users select "Version History". This URL must exist within the navigation scope (scope) defined in the manifest. If the manifest-url is a relative URL, the base URL will be the URL of the manifest. Example urls: [Twitter Release Notes](https://twitter.com/i/release_notes), [rubygem CHANGELOG file](https://github.com/botanicus/changelog/blob/master/CHANGELOG). Acceptable formats must include HTML, RSS/Atom, and JSONFeed. Additional formats (Markdown, etc.) may be supported at the User Agent’s discretion. The list of acceptable standard formats may grow over time.
 
 #### `type`
 
