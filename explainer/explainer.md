@@ -24,19 +24,19 @@ Most PWAs are regularly updated, and by providing end users access to informatio
 	
 A User Agent might choose to expose a version history as follows:
 
-![start page](imgs/start.png)
+![Uber PWA](imgs/start.png)
 
-![start select](imgs/start_select.png)
+![Clicking the … menu](imgs/start_select.png)
 
-![drop down](imgs/dropdown.png)
+![… menu contents](imgs/dropdown.png)
 
-![drop down select](imgs/drop_down_select.png)
+![Selecting App Info](imgs/drop_down_select.png)
 
-![app info pop up](imgs/App_info_pop_up.png)
+![App Info popup](imgs/App_info_pop_up.png)
 
-![popup select](imgs/popup_select.png)
+![Selecting Version History from App Info](imgs/popup_select.png)
 
-![version_history](imgs/version_history.png)
+![Displaying version history from Uber PWA](imgs/version_history.png)
 
 ## Version History Proposal
 
